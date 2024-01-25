@@ -5,3 +5,6 @@
 
 ## Request a team to be created for repository management
 - https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose
+
+## Report a security vulnerability 
+- https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose
