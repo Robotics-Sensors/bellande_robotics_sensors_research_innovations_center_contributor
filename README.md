@@ -1,10 +1,10 @@
 # Bellande Robotics Sensors Research Innovations Contributor
 
 ## Request a repository to be created that has a relationship with existing repository
-- https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose
+- 🚀 [Create Repository Request](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose)
 
 ## Request a team to be created for repository
-- https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose
+- 👥 [Create Team Request](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose)
 
 ## Report a security vulnerability 
-- https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose
+- 🔐 [Report Security Vulnerability](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_contributor/issues/new/choose)
